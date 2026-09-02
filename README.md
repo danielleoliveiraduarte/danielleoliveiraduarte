@@ -3,7 +3,7 @@
 - Focado em Python, HTML e CSS
 - Preparando-se para o mercado de tecnologia
 ## Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielle-de-oliveira-duarte-a5092617a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielle-de-oliveira-duarte-a5092617a/)
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
