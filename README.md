@@ -18,5 +18,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div> 
 ## Demonstração
-
-assets/gifs/demo.gif
+projeto/
+├── README.md
+└── assets/
+└── gifs/
+└── demo.gif
