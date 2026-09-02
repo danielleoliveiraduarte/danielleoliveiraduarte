@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**danielleoliveiraduarte/danielleoliveiraduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá, meu nome é Danielle de Oliveira Duarte!
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python, HTML e CSS
+- Preparando-se para o mercado de tecnologia
+## Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](danielleoliveira94@hotmaol.com)
+## Tecnologias que estudo
+<div style="display: inline_block"><br>
+ <img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ <img align="center" alt="HTML" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+ <img align="center" alt="Java" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <img align="center" alt="Csharp" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+</div> 
+## Demonstração
+2
+ 
+3
+![GIF de demonstração](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQxuw53ltJrQEidpJAhiSGUyQ1WJAX77q2Hg-iX4jnl4gtAAsEMJ38bIpGOwPfpzfiaJjNd1HV2ozr1u3_vY3JkzIROmra_QbhTWb4WgfK5pQIy35tnIWs8N-C58eKT_2KkonQJ1QJuMc/s1600/3.gif)
